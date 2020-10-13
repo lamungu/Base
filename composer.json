@@ -1,5 +1,5 @@
 {
-    "name": "backpack/base",
+    "name": "lamungu/backpack-base",
     "type": "library",
     "description": "Laravel Backpack's base package, which offers admin authentication and a blank admin panel using AdminLTE",
     "keywords": [
@@ -18,7 +18,7 @@
     ],
     "require": {
         "almasaeed2010/adminlte" : "2.4.*",
-        "laravel/framework": "5.8.*|^6.0",
+        "laravel/framework": "5.8.*|^6.0|^7.0|^8.0",
         "prologue/alerts": "^0.4.1",
         "creativeorange/gravatar": "~1.0",
         "nesbot/carbon": "^2.14.0",
